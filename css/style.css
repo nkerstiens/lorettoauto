@@ -1,5 +1,5 @@
 body {
-    background-image: url("./img/lawn.jpg");
+    background-image: url(../img/lawn2.jpg);
   padding-left: 20px;
   padding-top: 20px;
   padding-right: 20px;
@@ -7,3 +7,23 @@ body {
   background-color: rgb(173, 230, 206);
   }
  
+#story {
+background-color: white;
+text-decoration: rgb(41, 52, 204);
+padding: 25px;
+border-style: double;
+border-radius: 70px;
+  }
+
+#form-style {
+background-color: transparent;
+padding: 20px;
+}
+
+#website {
+  background-color: yellowgreen;
+  font-size: larger;
+  padding:30px;
+  border-radius: 70px;
+  font-weight: 500;
+}
